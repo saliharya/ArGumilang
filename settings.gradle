@@ -1,0 +1,2 @@
+rootProject.name='Builder Base Troops'
+include ':app'
